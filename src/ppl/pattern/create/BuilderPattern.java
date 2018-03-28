@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.create;
 /**
  * 构建者模式
  * 用于生成复杂对象，包含很多组件，构建者模式就是用来构建并组装组件

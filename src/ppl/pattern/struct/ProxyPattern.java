@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.struct;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.create;
 /**
  * 工厂模式：使创建者和调用者分离
  * 核心思想：用工厂方法代替new

@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.create;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

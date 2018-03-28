@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.struct;
 
 import java.util.ArrayList;
 import java.util.List;

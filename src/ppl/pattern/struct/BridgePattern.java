@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.struct;
 
 /**
  * 桥接模式：

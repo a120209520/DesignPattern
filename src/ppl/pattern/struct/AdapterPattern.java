@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.struct;
 /**
  * 适配器模式：
  * 使用适配器来对两端接口进行适配

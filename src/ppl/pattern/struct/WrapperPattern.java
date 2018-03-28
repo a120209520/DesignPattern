@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.struct;
 /**
  * 装饰器模式：
  * 比如一个父类有很多种类型，如果用继承，

@@ -1,4 +1,4 @@
-package ppl.pattern.single;
+package ppl.pattern.struct;
 
 /**
  * 外观模式：利用中间类，尽可能降低类之间的耦合
